@@ -1,4 +1,4 @@
-# 静态随机图 API (Static Random Pic API)
+# 静态随机图 API (Static Random Pic API) 
 
 这是一个纯静态的随机图 API 解决方案。它不依赖任何后端逻辑（如 Cloudflare Workers 或 Python 服务器），完全依靠构建时生成的静态资源和客户端 JavaScript 实现随机图功能。
 
